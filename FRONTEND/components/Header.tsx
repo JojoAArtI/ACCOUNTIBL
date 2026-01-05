@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
              <ShieldCheck size={20} strokeWidth={2.5} />
           </div>
           <span className="font-semibold text-lg tracking-tight text-white">
-            On-Chain Accountability Agent
+            ACCOUNTIBL
           </span>
         </div>
         <nav className="flex gap-6 text-sm font-medium text-zinc-400">
