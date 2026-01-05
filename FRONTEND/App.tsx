@@ -6,7 +6,7 @@ import { ExplanationPanel } from './components/ExplanationPanel';
 import { AccountabilityRecord } from './components/AccountabilityRecord';
 import { MOCK_ANALYSIS, INITIAL_QUERY } from './constants';
 import { AnalysisResult } from './types';
-
+ 
 export default function App() {
   const [query, setQuery] = useState(INITIAL_QUERY);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
