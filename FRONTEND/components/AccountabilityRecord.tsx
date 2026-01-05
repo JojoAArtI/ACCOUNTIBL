@@ -20,7 +20,7 @@ export const AccountabilityRecord: React.FC<AccountabilityRecordProps> = ({ reco
              <div className="flex flex-col gap-1">
                 <h3 className="text-sm font-semibold text-zinc-400 uppercase tracking-widest flex items-center gap-2">
                   <Lock size={14} />
-                  On-Chain Accountability Record
+                  ACCOUNTIBL
                 </h3>
                 <span className="text-xs text-zinc-600">Immutable commitment stored on Ethereum Mainnet</span>
              </div>
