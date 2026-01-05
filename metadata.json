@@ -1,0 +1,5 @@
+{
+  "name": "On-Chain Accountability Agent",
+  "description": "Enterprise dashboard for analyzing agentic workflow failures and auditing on-chain accountability records.",
+  "requestFramePermissions": []
+}
